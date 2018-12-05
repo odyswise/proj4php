@@ -1,5 +1,5 @@
 {
-	"name": "academe/proj4php",
+	"name": "odyswise/proj4php",
 	"license": "MIT",
 	"type": "library",
 	"description": "A PHP port of Proj4JS. This is still very much work-in-progress.",
